@@ -26,3 +26,7 @@ IPv4环境下下载，需要在设置里关闭 ipfilter IP 过滤
 > https://www.tjupt.org/forums.php?action=viewtopic&forumid=15&topicid=15457
 
 北洋园需要前往 PT“控制面板”打开“离校模式”，并保存设定
+
+
+
+准备使用新买的电脑作为专用下载机，从而赚取H&R值
