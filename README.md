@@ -3,6 +3,14 @@
 
 
 
+https://www.tjupt.org/
+
+https://bt.byr.cn/
+
+https://rutracker.org/
+
+
+
 2021年8月，byr关闭了出校，开这个Repo备份种子和记录替代网站
 
 
